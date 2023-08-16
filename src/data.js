@@ -23,13 +23,13 @@ export const services = [
     text: " Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.",
   },
   {
-    id: 1,
+    id: 2,
     icon: "fas fa-tree fa-fw",
     title: "saving money",
     text: " Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.",
   },
   {
-    id: 1,
+    id: 3,
     icon: "fas fa-socks fa-fw",
     title: "saving money",
     text: " Lorem ipsum dolor sit amet consectetur adipisicing elit.Asperiores, officia.",
@@ -68,8 +68,8 @@ export const tours = [
     price: 2100,
   },
   {
-    id: 3,
-    image: tour3,
+    id: 4,
+    image: tour4,
     data: "august 26th, 2020",
     title: "Tibet Adventure",
     info: " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
